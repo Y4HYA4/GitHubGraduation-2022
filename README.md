@@ -14,6 +14,11 @@ These fantastic items just arrived recently from Github. This is wonderful. I co
 
 > That was a heartfelt message. Thank you very much.
 
+## Do you want to be a part of github's next year's graduation?
+- Follow GitHub Education
+- Start using github; believe me, it's fantastic.
+- Keep an eye out for github education updates.
+- To participate, pull a request mentioning some interesting information about yourself and simply wait for GitHub to approve your request and merge it.
 ----
 ### Available Translations 🗣
 [Pt-BR](https://github.com/education/GitHubGraduation-2022/blob/main/translations/README.pt-br.md) 
