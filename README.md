@@ -1,7 +1,7 @@
 # GitHub Graduation-2022
 As a member of the class of 2022, I am overjoyed at the prospect of this opportunity. Thank you github for being a wonderful place to spend my time in. Using this platform has become a habit for quite a while now. I underwent a lot of change, improving my coding and documentation skills. I greatly appreciate the existence of this global project.
 
-# Cool Swagg!
+# Cool Swag!
 These fantastic items just arrived recently from Github. This is wonderful. I couldn't be more delighted, Gracias <strong>GitHub</strong>.
 
 <img src="GitHubGraduation2022.png" alt="Github" width="600" />
