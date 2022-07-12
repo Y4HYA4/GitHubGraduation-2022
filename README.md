@@ -3,14 +3,16 @@ As a member of the class of 2022, I am overjoyed at the prospect of this opportu
 
 # Cool Swagg!
 These fantastic items just arrived recently from Github. This is wonderful. I couldn't be more delighted, Gracias <strong>GitHub</strong>.
+
+<img src="GitHubGraduation2022.png" alt="Github" width="600" />
 <br>
 
 ### Here is what I got 👇
-
 <img src="Yay1.jpg" alt="Github" width="600" />
 <img src="Yay2.jpg" alt="Github" width="600" />
 <img src="Yay3.jpg" alt="Github" width="600" />
 
+> That was a heartfelt message. Thank you very much.
 
 ----
 ### Available Translations 🗣
