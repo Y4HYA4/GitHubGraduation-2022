@@ -1,5 +1,18 @@
 # GitHub Graduation-2022
+As a member of the class of 2022, I am overjoyed at the prospect of this opportunity. Thank you github for being a wonderful place to spend my time in. Using this platform has become a habit for quite a while now. I underwent a lot of change, improving my coding and documentation skills. I greatly appreciate the existence of this global project.
 
+# Cool Swagg!
+These fantastic items just arrived recently from Github. This is wonderful. I couldn't be more delighted, Gracias <strong>GitHub</strong>.
+<br>
+
+### Here is what I got 👇
+
+<img src="Yay1.jpg" alt="Github" width="600" />
+<img src="Yay2.jpg" alt="Github" width="600" />
+<img src="Yay3.jpg" alt="Github" width="600" />
+
+
+----
 ### Available Translations 🗣
 [Pt-BR](https://github.com/education/GitHubGraduation-2022/blob/main/translations/README.pt-br.md) 
 
